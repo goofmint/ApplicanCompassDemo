@@ -1,0 +1,13 @@
+.container {
+  background-image: url("../images/compass-background.png");
+  background-repeat: no-repeat;
+  width: 360px;
+  height: 640px;
+}
+
+.needle img{
+  position:absolute;
+  width: 40px;
+  top: 90px;
+  left: 165px;
+}
